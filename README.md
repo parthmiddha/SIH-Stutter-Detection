@@ -26,3 +26,6 @@ A Random Forest classifier was employed for its ability to handle multi-class cl
 **Results**
 
 After training the Random Forest classifier with cross-validation, the model achieved an impressive accuracy of 93%. Evaluation metrics, including precision, recall, and F1-score, for each class are available in the project's notebook.
+
+![stuttering](https://github.com/parthmiddha/SIH-Stutter-Detection/assets/37166773/f938a75f-c922-4cd0-bedc-6d965b8d8e33)
+
